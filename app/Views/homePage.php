@@ -139,7 +139,7 @@
                                         <div class="flex items-center px-4 py-3">
                                             <img class="h-8 w-8 rounded-full" src="https://picsum.photos/id/1027/150/150" />
                                             <div class="ml-3 ">
-                                                <span class="text-sm font-semibold antialiased block leading-tight">8fact</span>
+                                                <span class="text-sm font-semibold antialiased block leading-tight">Reza Nur</span>
                                                 <span class="text-gray-600 text-xs block">Asheville, North Carolina</span>
                                             </div>
                                         </div>
